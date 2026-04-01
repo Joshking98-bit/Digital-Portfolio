@@ -1,0 +1,3 @@
+For this draft, I created a basic digital portfolio homepage that includes my name, professional focus, and two portfolio items. I included a Windows Server 2022 domain lab and Linux systems administration lab work because they best reflect my current experience and interests in cybersecurity, cloud infrastructure, and IT support. I wanted the portfolio to have a clean structure that makes it easy to build on later.
+
+The next things I plan to improve are adding screenshots from my labs, writing more detailed project descriptions, and including links to my GitHub work as I continue uploading projects. I also want to add certifications, coursework, and other hands-on examples so the portfolio feels more complete and better represents my technical growth.
